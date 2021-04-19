@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: irim
+Version: 0.1.1
+Summary: A library for training Recurrent Inference Machines using Invert to Learn
+Home-page: https://github.com/pputzky/invertible_rim
+Author: Patrick Putzky
+Author-email: patrick.putzky@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
